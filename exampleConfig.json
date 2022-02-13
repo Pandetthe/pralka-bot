@@ -1,0 +1,7 @@
+{
+    "token": "token",
+    "clientID": "clientID",
+    "guildID": "guildID",
+    "upperChannelID": "upperChannelID",
+    "lowerChannelID": "lowerChannelID"
+}

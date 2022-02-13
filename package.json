@@ -1,0 +1,15 @@
+{
+  "name": "pralka-bot",
+  "version": "1.0.0",
+  "description": "Bot do oczyszczenia myśli twoich znajomych.",
+  "main": "index.js",
+  "author": "Pandetthe",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.27.0",
+    "discord.js": "^13.6.0"
+  }
+}
